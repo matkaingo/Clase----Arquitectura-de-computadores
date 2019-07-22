@@ -1,0 +1,65 @@
+Conceptos basicos de Arq de computadores
+Computador = "Una maquina programabale"
+
+Funciones del computador : 
+    -procesar datos
+    -Almacenamiento de datos
+    -Transferencia de datos
+    -Control
+    
+Almacenamiento
+      -Registro del procesador
+      -Memoria cache
+      -Memoria RAM
+      -Disco - Flash
+    Puede ser temporal o indefinido(no infinito)
+
+Transferencia :  Ej --- > un router el cual es un computador especificamente hecho para la transferencia de datos
+      -Mover datos de un lado a otro
+      -(Punto critico) Procesador - Memoria
+      -Dispositvios I/O
+Control : 
+      -Coordina la accion de todo el sistema
+      
+4 Operaciones que realizan el computador:
+            -Transferencia
+            -Almacenamiento
+            -Almacenamiento y procesamiento
+            -Transferencia, almacenamiento y procesamiento.
+            
+
+Estructura
+            -Procesador
+            -memoria principal
+            
+!!!!!!------Modelo Von Neuman------!!!!!
+
+Niveles de abstraccion
+            -Lengiajes de aplicacion
+            -Lemguajes de programacion
+            -Lenguaje de maquina
+            -Control microprogramado / cableado
+            -Unidades funcionales
+            -Circuitos lógico - Electronica
+            
+    //Lenguaje maquina -- instrucciones binarias que el procesador almacena en la memoria
+    
+Responsables de una funcionalidad
+                  ALU
+                  Unidad de control
+                  Memoria: Almacenamiento
+                  Buses del sistema: transferencia de datos
+
+//Importate : compuertas logicas
+
+---------------------------------------------------------------------------------------------------------------------------------
+Arquitectura de alto nivel
+
+  Objetivos:
+    -Evaluar rendimiento
+    -Identificar cuellos de botella
+    -Identificar problemas de fiabilidad
+    
+  Programación cablead: Depende de un circuito lógico para llevar una operacion especifica(Cambiar la funcion implica recablear)
+      -Operaciones logicas
+      
