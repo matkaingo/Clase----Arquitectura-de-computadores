@@ -1,0 +1,32 @@
+Disapositiva: https://upbeduco-my.sharepoint.com/:p:/r/personal/claudia_carmona_upb_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7B65EB70CF-2BD2-42C3-BEEC-5657D9611E53%7D&file=e%204_Arquitectura%20de%20alto%20nivel.pptx&action=edit&mobileredirect=true
+
+-Programacion por software.
+Las instrucciones son 0s y 1s.
+
+-Modelo mas detallado: CPU(control) se comunica con dispositivod I/O (Punto critico)
+-Direcciona a la memoria
+-Direccion dispositivos I/O, los lee y carga la info
+-Cada celda de memoria ocupa 8 bits.
+-Lee los registros.
+-Resgistros mas importantes: Registros internos
+    -PC : Contador del programa
+    -IR: Deco instruccion
+    -AC: Acumulador
+El uso de adecuado de los registros es muy importante para todas las instrucciones.
+
+
+------------------------------------------------------
+Operacion del computador.
+
+Entiende el dato, lo codifica y lo ejecuta
+-Siempre esta mirando la siguiente instruccion
+va ala memoria toma  la instruccion y la ejecuta
+
+
+Fetch: etapa de captura(Ciclo de instruccion)
+
+Solo trabaja con enteros
+Formato 16 bits
+
+-Como hacer esas operaciones.
+Operaciones que se hacen en la memoria: Leer y escribir
