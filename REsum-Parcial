@@ -1,0 +1,38 @@
+Funciones del computador : 
+    -procesar datos
+    -Almacenamiento de datos
+    -Transferencia de datos
+    -Control
+
+4 Operaciones que realizan el computador:
+            -Transferencia
+            -Almacenamiento
+            -Almacenamiento y procesamiento
+            -Transferencia, almacenamiento y procesamiento.
+     Niveles de abstraccion
+            -Lengiajes de aplicacion
+            -Lemguajes de programacion
+            -Lenguaje de maquina
+            -Control microprogramado / cableado
+            -Unidades funcionales
+            -Circuitos lógico - Electronica
+            Responsables de una funcionalidad
+                  ALU
+                  Unidad de control
+                  Memoria: Almacenamiento
+                  Buses del sistema: transferencia de datos
+Modelo mas detallado: CPU(control) se comunica con dispositivod I/O (Punto critico)
+-Direcciona a la memoria
+-Direccion dispositivos I/O, los lee y carga la info
+-Cada celda de memoria ocupa 8 bits.
+-Lee los registros.
+-Resgistros mas importantes: Registros internos
+    -PC : Contador del programa
+    -IR: Deco instruccion
+    -AC: Acumulador
+    Entiende el dato, lo codifica y lo ejecuta
+-Siempre esta mirando la siguiente instruccion
+va ala memoria toma  la instruccion y la ejecuta
+ALU (siglas en inglés de arithmetic logic unit)
+La arquitectura son las instrucciones(Aspectos visible al programador)
+la organizacion es como se interconecta la arquitectura(aspectos constructios como los buses el sistema)
