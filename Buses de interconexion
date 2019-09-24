@@ -1,0 +1,30 @@
+Esta todo tambien en las diapositivas
+
+
+                                              Memoria
+                                                 ^
+                                                 |
+                                                 |
+                                                 v
+                                       I/O  <-- CPU --> I/O
+                                      
+                                      
+Modulos de memoria          .
+Solicitud de interrupción. La COU los recibe
+el ir manda señakes de control a la CPU
+
+la forma mas comun de conectar componentes de un computador es "bus"
+bus = Conjunto de lineascompartidas por 2 o mas dispositv¿ivos
+Cada linea lleva una señal transmitiendo 1's o 0's
+Interconectan los proncipales componentes
+Sus linea se dividen en 3 grupos = Datos, Direcciones y control.
+Bus de control
+
+DMA permite acceso directo a memoria
+
+Operaciones del bus
+1ro = coloque la direccion ¿Donde?
+2ndo = se activa la señal de control¿Que?
+3ero se pone el dato
+Diferentes buses a velocidades diferentes(Jerarquia de buses)
+Temporizacion / Síncrona y Asíncrona
